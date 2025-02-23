@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "942f4fce-00a6-4750-b3fb-50bd972d5e55"
+      }
+    },
+    "owner": "jenniferfix"
   }
 }
