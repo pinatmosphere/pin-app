@@ -1,0 +1,4 @@
+{
+  "extends": "@pinatmosphere/tsconfig/base.json",
+  "include": ["routes"]
+}
